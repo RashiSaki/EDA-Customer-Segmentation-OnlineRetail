@@ -1,2 +1,2 @@
-# EDA_Customer_Segmentation_OnlineRetail
+# EDA - Customer Segmentation
 EDA Analysis of Online Retail Data
